@@ -1,0 +1,9 @@
+{
+    "env_name": "davinci",
+    "activate_path": "/usr/local/Caskroom/miniconda/base/bin/activate",
+    "user_script_path": "~/Documents/Code/DaVinciScript/Scripts",
+    "link_path": "~/Library/Application Support/Blackmagic Design/DaVinci Resolve/Fusion/Scripts/Edit",
+    "ignore_file_or_folder": ["^\\.", "__pycache__", "img"],
+    "is_move_to_temp": true,
+    "temp_dir": "~/Desktop/temp"
+}
